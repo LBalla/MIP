@@ -1,7 +1,13 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
+<<<<<<< HEAD
 // no test 123
+=======
+// test 123
+// branch test
+// branch test add
+>>>>>>> test
 #define MAX 1000
 #define abeceda 26
 
