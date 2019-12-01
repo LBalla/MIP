@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
-// test 123
+// no test 123
 #define MAX 1000
 #define abeceda 26
 
